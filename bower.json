@@ -1,0 +1,11 @@
+{
+  "name": "how-i-backbone",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "2.0.0",
+    "underscore": "1.5.1",
+    "backbone": "1.0.0",
+    "jade": "0.32.0",
+    "bootstrap": "2.3.2"
+  }
+}
